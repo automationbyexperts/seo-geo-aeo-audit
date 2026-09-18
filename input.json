@@ -1,0 +1,5 @@
+{
+  "websiteUrl": "https://books.toscrape.com",
+  "maxPages": 25,
+  "includeHtmlReport": true
+}

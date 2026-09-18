@@ -1,0 +1,20 @@
+{
+  "url": "https://yourdomain.com/",
+  "pageTitle": "Your Domain - Home",
+  "grade": "B",
+  "overallScore": 74,
+  "seoScore": 82,
+  "geoScore": 68,
+  "aeoScore": 61,
+  "issuesFound": 9,
+  "criticalCount": 1,
+  "topIssues": [
+    "robots.txt blocks AI crawlers: GPTBot, PerplexityBot - the site cannot be cited by those AI engines.",
+    "No FAQPage schema - missing eligibility for FAQ rich results and AI answer extraction."
+  ],
+  "schemaTypes": [
+    "Organization",
+    "WebSite"
+  ],
+  "wordCount": 640
+}
